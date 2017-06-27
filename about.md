@@ -1,55 +1,40 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+热爱技术，热爱生活！
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+## 教育
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* 2010-2014 杭州电子科技大学 本科 学士学位.
 
-## Education
+## 职称
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+中级软件设计师
 
-## Roles
+## 技能
 
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **熟练 ** - `java` / `javascript` / `mysql` / `springMVC` / `mybatis`
+* **熟悉 ** - `html` / `css` / 
+* **了解 ** - `python` / `kafka` / `zookeeper` / `springboot` / `spring cloud` / `elk` / `photoshop`
+* **其他 ** - `c1驾照` / `英语四级` 
     
     
-## Achievements
+## 项目经历
 
 
-* [**This is my first achievement**](#) 
+* [**浙一互联网后台开发**](#) 
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+   1、参与公司项目的需求，转化为技术解决方案，技术选型。
+   
+   2、使用springMVC编写管理后台，使用mybatis操作mysql数据库，开发后台接口供客户端调用。熟悉JavaScript、jQuery等相关技术。
+   
+   3、编写接口文档和微信应用。
 
 ***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[791300332@qq.com](mailto:791300332@qq.com)
