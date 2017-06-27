@@ -16,10 +16,10 @@ permalink: /about/
 
 ## 技能
 
-* **熟练 ** - `java` / `javascript` / `mysql` / `springMVC` / `mybatis`
-* **熟悉 ** - `html` / `css` / 
-* **了解 ** - `python` / `kafka` / `zookeeper` / `springboot` / `spring cloud` / `elk` / `photoshop`
-* **其他 ** - `c1驾照` / `英语四级` 
+* ** 熟练 ** - `java` / `javascript` / `mysql` / `springMVC` / `mybatis`
+* ** 熟悉 ** - `html` / `css` / 
+* ** 了解 ** - `python` / `kafka` / `zookeeper` / `springboot` / `spring cloud` / `elk` / `photoshop`
+* ** 其他 ** - `c1驾照` / `英语四级` 
     
     
 ## 项目经历
